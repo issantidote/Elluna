@@ -1,0 +1,26 @@
+# Secret files
+.env
+*.pem
+*.key
+
+# Python environments
+venv/
+bh1750-env/
+
+# Compiled
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Node.js (if used)
+node_modules/
+
+# IDEs/editors
+.vscode/
+.idea/
+
